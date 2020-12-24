@@ -2,7 +2,7 @@
 
 ## A Time-travel scenario for GUMSHOE-based Roleplaying Games
 
-This was an entry for the GUMSHOE Community Content Contest that unfortunately didn't win. Rather than try to polish this up I'm offering it to the world as-is with the trademarks removed in the hopes that someone will find it useful. Who knows? Maybe there's a market for time-travel adventures where someone is trying to stop vandals from interfering with the birth of computing?
+This was an entry for the GUMSHOE Community Content Contest that unfortunately didn't win. Rather than try to polish this up I'm offering it to the world as-is with the trademarks removed in the hopes that someone will find it useful. Who knows? Maybe there's a market for time-travel adventures where someone is trying to stop vandals from interfering with the birth of personal computing?
 
 All I ask is that if you decide to use this for something you let me know and credit me. I'm curious to see where this lands.
 
